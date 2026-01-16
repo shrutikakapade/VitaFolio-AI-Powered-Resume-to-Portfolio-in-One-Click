@@ -8,7 +8,7 @@
     <h1> AI-Powered Resume to Portfolio in One Click </h1>
 <div>
     <h2>Project Overview</h2>
-    <p>VitaFolio is an AI-driven application that converts resumes or project descriptions into fully functional, responsive portfolio websites. Users can instantly download their website as a ZIP file containing HTML, CSS, and JavaScript files.</p>
+    <p>VitaFolio is an AI-powered platform built with Streamlit that leverages the Gemini LLM to transform resumes into fully functional, responsive portfolio websites. Users can instantly download a complete website package with HTML, CSS, and JavaScript files, ready for deployment.</p>
 <div>
     <h2>Features</h2>
     <ul>
