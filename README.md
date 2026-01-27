@@ -50,4 +50,10 @@ RESUME PORTFOLIO GENERATOR/
         <li>Enter your website description and click <strong>Generate</strong> to create your portfolio.</li>
     </ol>
 
+    
+
+https://github.com/user-attachments/assets/65bd7d90-bc06-4c47-aaec-36d1f13adf55
+
+
+
 </html>
